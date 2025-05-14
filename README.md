@@ -6,7 +6,10 @@
   
 <br>
 
-![Medici1612's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medici1612&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medici1612&layout=compact)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medici1612&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medici1612&layout=compact&theme=tokyonight" />
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thi-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
