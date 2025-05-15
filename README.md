@@ -3,8 +3,10 @@
 - 👜 At the moment, I work as Implementation intern.
 - 🚀 Actually, I'm improving my skills in C, Java and Python.
 - ⚡ I usually participate in programming marathons!
-  
-<br>
+
+ <div>
+    <img src = "https://github.com/Thiagocod/Thiagocod/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake contributions"/>  
+</div>
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medici1612&show_icons=true&theme=tokyonight" />
