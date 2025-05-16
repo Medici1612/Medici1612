@@ -35,7 +35,7 @@ I'm a 19-year-old Computer Science student from Brazil 🇧🇷, passionate abou
 
 ### 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/thiago-medici-36b945328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140"></a>  &nbsp;&nbsp;
-<a href="mailto:timedici@gmail.com">
+<a href="mailto:thimedicii@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130">
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/thiago.medici/">
