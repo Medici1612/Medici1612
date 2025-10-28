@@ -14,8 +14,6 @@ I'm a 19-year-old Computer Science student from Brazil 🇧🇷, passionate abou
 
 ### 🧰 Tech Stack & Favorite Languages
 
-### 🧰 Tech Stack & Favorite Languages
-
 <p align="center">
   <img align="center" alt="Thi-JS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Thi-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
