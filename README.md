@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Thiago!
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=40&fontColor=fff)
+![Banner](https://s2-techtudo.glbimg.com/B5dhPJRTsGATu0PlAyO-KXzisPI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/5/y/JKm2dKSBOnmweRM8q5XA/hollow-knight-download-capa.jpg)
 
 I'm a 19-year-old Computer Science student from Brazil 🇧🇷, passionate about programming and data science.
 
@@ -32,14 +31,13 @@ I'm a 19-year-old Computer Science student from Brazil 🇧🇷, passionate abou
 
 
 ---
-
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medici1612&show_icons=true&theme=radical&hide=issues&count_private=true" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medici1612&layout=compact&theme=radical&card_width=450" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medici1612&show_icons=true&theme=tokyonight&hide=issues&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medici1612&layout=compact&theme=tokyonight"/>
+</div>
+
 
 ---
 
