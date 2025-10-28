@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Thiago!
-![Banner](https://s2-techtudo.glbimg.com/B5dhPJRTsGATu0PlAyO-KXzisPI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/5/y/JKm2dKSBOnmweRM8q5XA/hollow-knight-download-capa.jpg)
+
+<p align="center">
+  <img src="https://criticalhits.com.br/wp-content/uploads/2021/08/hollow-knight-ordem-das-zonas.jpg" alt="Hollow Knight Banner" width="800" height="800">
+</p>
 
 I'm a 19-year-old Computer Science student from Brazil 🇧🇷, passionate about programming and data science.
 
